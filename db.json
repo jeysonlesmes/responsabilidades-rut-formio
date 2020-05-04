@@ -1,0 +1,24 @@
+{
+  "responsabilidades-rut": [
+  {
+    "label": "NO APLICA",
+    "value": "0"
+  },
+  {
+    "label": "GRAN CONTRIBUYENTE",
+    "value": "13"
+  },
+  {
+    "label": "AUTORRETENEDOR",
+    "value": "15"
+  },
+  {
+    "label": "AGENTE DE RETENCIÓN IVA",
+    "value": "23"
+  },
+  {
+    "label": "RÉGIMEN SIMPLE DE TRIBUTACIÓN",
+    "value": "47"
+  }
+]
+}
